@@ -10,31 +10,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+Developer;Building+Modern+Web+Applications;Passionate+about+Clean+UI+and+UX;Always+Learning+New+Technologies"/>
 
-<br><br>
-
-<a href="https://github.com/mohammadbagheri01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mohammadbagheri01&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -44,33 +19,15 @@
 <!--                    PROFILE CARD                         -->
 <!-- ====================================================== -->
 
-<table align="center">
+<div align="center">
 
-<tr>
-
-<td width="34%" align="center">
 
 <img width="300" src="https://avatars.githubusercontent.com/mohammadbagheri01"/>
 
-<h2>Mohammad</h2>
-
-<h3>Mohammad Bagheri</h3>
-
+<h2>Mohammad Mohammad Bagheri</h2>
 <p>
 
 💻 Front-End Developer
-
-<br>
-
-⚛️ React Developer
-
-<br>
-
-🎨 UI Enthusiast
-
-<br>
-
-🚀 Open Source Learner
 
 </p>
 
@@ -80,61 +37,38 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/mohammadmohammadbagheri01/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/mohammad.bagheri.dev">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mohammad.bagheri.official01@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</td>
 
-<td width="66%">
 
-<h1>about <span style="color:#38BDF8;">me</span></h1>
+<div align="center" >
 
-<br>
+<h1>About <span style="color:#38BDF8;">Me</span></h1>
 
-I'm a passionate **Front-End Developer** with a strong focus on creating modern, responsive and user-friendly web applications.
+</div>
+  
+I'm a Front-End Developer focused on building modern and responsive web applications using React and JavaScript.
+<div align="left">
 
-<br><br>
+- 📍 Tehran, Iran
+- 🔭 Currently working on: A React e-commerce project
+- 🌱 Currently learning: Node.js
+- ⚡ Fun fact: I enjoy turning ideas into interactive web experiences.
+</div>
 
-I enjoy turning ideas into interactive digital experiences using **React**, **JavaScript** and modern development tools.
+</div>
 
-<br><br>
-
-My goal is to build fast, accessible and visually appealing interfaces that provide the best user experience.
-
-<br><br>
-
-I'm constantly learning new technologies and improving my skills to become a better developer every day.
-
-<br><br>
-
-📍 Tehran, Iran
-
-<br>
-
-💼 Front-End Developer
-
-<br>
-
-⚛️ React Ecosystem
-
-<br>
-
-☕ Coffee Lover
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 <br>
 
@@ -151,7 +85,7 @@ I'm constantly learning new technologies and improving my skills to become a bet
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3>⚛️ Web Development</h3>
 
@@ -160,8 +94,9 @@ using React, JavaScript and modern Front-End
 technologies.
 
 </td>
-
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 <h3>🎨 UI / UX</h3>
 
@@ -174,7 +109,7 @@ responsive design and clean user experience.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3>🔗 REST API</h3>
 
@@ -182,8 +117,9 @@ API Integration, Axios, Fetch,
 Authentication and dynamic applications.
 
 </td>
-
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 <h3>⚡ Performance</h3>
 
@@ -213,11 +149,7 @@ Code Splitting.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,tailwind,bootstrap"/>
 
 <br><br>
 
@@ -225,129 +157,13 @@ Code Splitting.
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase"/>
+
 
 </div>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                    MY FAVORITES                         -->
-<!-- ====================================================== -->
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="170">
-
-<h2>⚛️</h2>
-
-<h3>React</h3>
-
-Building modern SPA
-
-</td>
-
-<td align="center" width="170">
-
-<h2>🎨</h2>
-
-<h3>UI Design</h3>
-
-Clean Interface
-
-</td>
-
-<td align="center" width="170">
-
-<h2>🚀</h2>
-
-<h3>Performance</h3>
-
-Fast Loading
-
-</td>
-
-<td align="center" width="170">
-
-<h2>📱</h2>
-
-<h3>Responsive</h3>
-
-Mobile First
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-<hr>
-
-<!-- ====================================================== -->
-<!--                    CURRENTLY LEARNING                   -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<h1>currently <span style="color:#38BDF8;">learning</span></h1>
-
-<table>
-
-<tr>
-
-<td align="center">
-
-TypeScript
-
-<br>
-
-████████░░
-
-80%
-
-</td>
-
-<td align="center">
-
-Next.js
-
-<br>
-
-██████░░░░
-
-60%
-
-</td>
-
-<td align="center">
-
-Framer Motion
-
-<br>
-
-█████░░░░░
-
-50%
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-<hr>
 <!-- ====================================================== -->
 <!--                  GITHUB ANALYTICS                       -->
 <!-- ====================================================== -->
@@ -358,165 +174,10 @@ Framer Motion
 GitHub <span style="color:#38BDF8;">Analytics</span>
 </h1>
 
-<br>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=mohammadbagheri01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbagheri01&layout=compact&theme=github_dark&hide_border=true"/>
-
 <br><br>
 
 <img width="760"
 src="https://github-readme-streak-stats.herokuapp.com?user=mohammadbagheri01&theme=github-dark-blue&hide_border=true"/>
 
-<br><br>
-
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadbagheri01&theme=github-compact&hide_border=true"/>
-
 </div>
 
-<br>
-
-<hr>
-
-<!-- ====================================================== -->
-<!--                  FEATURED PROJECTS                      -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<h1>
-
-Featured <span style="color:#38BDF8;">Projects</span>
-
-</h1>
-
-<br>
-
-<a href="https://github.com/mohammadbagheri01/PROJECT_NAME">
-
-<img height="150"
-src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadbagheri01&repo=PROJECT_NAME&theme=github_dark&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/mohammadbagheri01/PROJECT_NAME2">
-
-<img height="150"
-src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadbagheri01&repo=PROJECT_NAME2&theme=github_dark&hide_border=true"/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/mohammadbagheri01/PROJECT_NAME3">
-
-<img height="150"
-src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadbagheri01&repo=PROJECT_NAME3&theme=github_dark&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/mohammadbagheri01/PROJECT_NAME4">
-
-<img height="150"
-src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadbagheri01&repo=PROJECT_NAME4&theme=github_dark&hide_border=true"/>
-
-</a>
-
-</div>
-
-<br>
-
-<hr>
-
-<!-- ====================================================== -->
-<!--                     QUICK FACTS                         -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<h1>
-
-Quick <span style="color:#38BDF8;">Facts</span>
-
-</h1>
-
-<table>
-
-<tr>
-
-<td align="center" width="180">
-
-<h2>🚀</h2>
-
-<b>Projects</b>
-
-<br>
-
-20+
-
-</td>
-
-<td align="center" width="180">
-
-<h2>💻</h2>
-
-<b>Experience</b>
-
-<br>
-
-2+ Years
-
-</td>
-
-<td align="center" width="180">
-
-<h2>⚛️</h2>
-
-<b>Main Stack</b>
-
-<br>
-
-React.js
-
-</td>
-
-<td align="center" width="180">
-
-<h2>📚</h2>
-
-<b>Learning</b>
-
-<br>
-
-Everyday
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-<hr>
-
-<!-- ====================================================== -->
-<!--                     QUOTE                               -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</div>
-
-<br>
-
-<hr>
