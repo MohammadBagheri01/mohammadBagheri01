@@ -21,9 +21,6 @@
 
 <div align="center">
 
-
-<img width="300" src="https://avatars.githubusercontent.com/mohammadbagheri01"/>
-
 <h2>Mohammad Mohammad Bagheri</h2>
 <p>
 
