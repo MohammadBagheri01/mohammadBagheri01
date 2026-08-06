@@ -173,8 +173,9 @@ GitHub <span style="color:#38BDF8;">Analytics</span>
 
 <br><br>
 
-<img width="760"
-src="https://github-readme-streak-stats.herokuapp.com?user=mohammadbagheri01&theme=github-dark-blue&hide_border=true"/>
+<img
+  width="760"
+  src="https://streak-stats.demolab.com?user=mohammadbagheri01&theme=github-dark-blue&hide_border=true"
+/>
 
 </div>
-
