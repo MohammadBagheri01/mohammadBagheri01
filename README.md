@@ -175,7 +175,7 @@ GitHub <span style="color:#38BDF8;">Analytics</span>
 
 <img
   width="760"
-  src="https://streak-stats.demolab.com?user=mohammadbagheri01&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=mohammadbagheri01&theme=github-dark-blue&hide_border=true&v=123456"
 />
 
 </div>
